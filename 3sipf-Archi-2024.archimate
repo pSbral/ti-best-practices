@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="(new model)" id="id-6207f344e6c3454c96b5de142a3104da" version="5.0.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Challenge" id="id-6207f344e6c3454c96b5de142a3104da" version="5.0.0">
   <folder name="Strategy" id="id-cde645f37c5440ca8a93b02ddca52662" type="strategy"/>
   <folder name="Business" id="id-a83daa2bf9524dd39cd9023c8cfeff43" type="business">
     <element xsi:type="archimate:BusinessProcess" name="Abrir Chamada" id="id-5dec5062db1440f68939150c675afd9e"/>
