@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5893c28480a201b4",
+        "id": "39e29bcaa8b24912",
         "type": "tabs",
         "children": [
           {
-            "id": "d2d9cd55117e3bfd",
+            "id": "223143c2308db6c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2d9cd55117e3bfd",
+  "active": "223143c2308db6c2",
   "lastOpenFiles": [
-    "Pasted image 20240430083635.png",
+    "Untitled.canvas",
     "Governança e Qualidade de Software.md",
+    "Pasted image 20240430083635.png",
     "Pasted image 20240430083620.png"
   ]
 }
