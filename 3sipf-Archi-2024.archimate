@@ -73,7 +73,7 @@
     <element xsi:type="archimate:Driver" name="Sistema que organize e controle os atendimentos técnicos" id="id-48d820b62ff7402dbc7ecd2ef9e7d399"/>
     <element xsi:type="archimate:Driver" name="Garantir a satisfação do cliente com o atendimento" id="id-fb1f3f0cb8d64a1ea048e45e2eff2bf8"/>
     <element xsi:type="archimate:Goal" name="Informatizar o registro de chamados técnicos" id="id-3b2c77b00a68440ba60cd924e3061e70"/>
-    <element xsi:type="archimate:Goal" name="Computar o tempo de atendimento" id="id-82ab4b003d574bd2a176884e0292b15a"/>
+    <element xsi:type="archimate:Goal" name="Controlar o trabalho e o tempo de atendimento" id="id-82ab4b003d574bd2a176884e0292b15a"/>
     <element xsi:type="archimate:Goal" name="Pesquisar a satisfação do cliente ao final do atendimento" id="id-abbce3842a8947b28fc2e8f68a8eed85"/>
     <element xsi:type="archimate:Outcome" name="Meta: 70% dos clientes respondendo que estão satisfeitos com o suporte" id="id-ad200548e6a34720bc4f220d295f20da"/>
     <element xsi:type="archimate:Outcome" name="100% dos chamados registrados em software/Sistema" id="id-7c00a631402c4dfb95884922b9634efd"/>
